@@ -1,15 +1,14 @@
 # GAIH Student Repo Example
 ![](img/logo.png)
 
-**Course Date:** DD.MM.YYYY  
-**Name:** Mert  
-**Surname:** Cobanov  
-**Email:** mertcobanov@gmail.com  
-
-**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
+**Course Date:** 15.02.2021  
+**Name:** Merve  
+**Surname:** PUNAR  
+**Email:** punarmervee@gmail.com
+  
 
 ## Project Name
-Description of your project.
+Introduction to Pyhton Programming
 
 ## Requirements
 ```
